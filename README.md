@@ -1,10 +1,7 @@
 # Field-Test-Data
 ================
  
-CalSPEED Android app empowers end-users with a professional-level, industry-standard testing tool to measure the quality and speed of their mobile connection.
+CalSPEED project teams use smartphones and tablets to test at nearly 2,000 different locations around the state to measure mobile broadband service availability. The number was increased to 4,000 locations from summer 2020. The files on this repository are the testing results from the devices.
 
-The app conducts a two-phase test including initial testing and results validation in order to ensure statistically significant measurements. Test your upload speed, download speed, message delay (latency), and message delay variation (jitter) using CalSPEED Andorid app. 
-The first two metrics measure your Internet usage experience, while the second two measure the quality of your data connection.
-
-For the reports and summarized data, refer to the following website
+For the reports and summarized data, visit
     https://www.cpuc.ca.gov/General.aspx?id=1778
